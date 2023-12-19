@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.4.33213.308
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Lesenka_zadanie", "Lesenka_zadanie\Lesenka_zadanie.csproj", "{630AC1D7-1C5E-415B-8B6A-9E7685F7F268}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{630AC1D7-1C5E-415B-8B6A-9E7685F7F268}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{630AC1D7-1C5E-415B-8B6A-9E7685F7F268}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{630AC1D7-1C5E-415B-8B6A-9E7685F7F268}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{630AC1D7-1C5E-415B-8B6A-9E7685F7F268}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {85494361-2161-44FF-9F19-CD2FA5C7BCC8}
+	EndGlobalSection
+EndGlobal
